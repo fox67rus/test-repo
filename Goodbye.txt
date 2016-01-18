@@ -1,1 +1,1 @@
-Print("Goodbye!");
+Print("Goodbye!;");
