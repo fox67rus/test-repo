@@ -3,3 +3,4 @@ Print("Glad to see you;");
 Print("Hello, World;");
 Print("Hello, all people;");
 Print("Hello;");
+Print("Hello Console");
